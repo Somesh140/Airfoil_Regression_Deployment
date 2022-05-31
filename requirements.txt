@@ -1,0 +1,9 @@
+flask
+pickle-mixin
+flask-cors
+sklearn
+numpy
+pandas
+gunicorn
+Jinja2
+Werkzeug
