@@ -6,4 +6,4 @@ numpy
 pandas
 gunicorn
 Jinja2
-Werkzeug
+WerkZeug
